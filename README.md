@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tapetelo
 - 👀 I’m interested in Cryptocurrencies 
 - 🌱 I’m currently learning Cryptocurrencies 
-- 💞️ I’m looking to collaborate on Cryptocurrencies  
 - 📫 How to reach me titosugianto5@gmail.com 
 
 <!---
